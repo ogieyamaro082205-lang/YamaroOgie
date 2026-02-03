@@ -1,0 +1,41 @@
+body {
+    background-color: #0b0b0b;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h2 {
+    color: #00bcd4;
+}
+
+button {
+    background-color: #ff9800;
+    color: black;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffc107;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#nameOutput {
+    color: #00ff99;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#hoverName {
+    background-color: #333;
+    padding: 10px;
+    width: fit-content;
+}
